@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/terminal"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:autoText="false"
+        android:background="#00000000"
+        android:drawingCacheQuality="low"
+        android:editable="false"
+        android:enabled="true"
+        android:focusable="false"
+        android:gravity="bottom"
+        android:scrollHorizontally="true"
+        android:scrollbars="vertical|horizontal"
+        android:textColor="#FFFFFF"
+        android:textSize="11dp"
+        android:typeface="monospace"
+        android:inputType="none" >
+    </EditText>
+
+</LinearLayout>

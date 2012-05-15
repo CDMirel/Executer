@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="folder">Verzeichnis</string>
+    <string name="folder_descr">23 Dateien, 2 Verzeichnisse</string>
+    <string name="oxygen_license">Die Icons stammen aus dem Oxygen Icon Theme und stehen unter der LGPL v3.</string>
+    <string name="executer_license">Die Software Executer selbst steht unter der Lizenz GPL v3.</string>
+    <string name="about">Über</string>
+    <string name="cancel">Abbruch</string>
+    <string name="internal_storage">Interner Speicher</string>
+    <string name="sd_card">SD-Karte</string>
+    <string name="usb_storage">USB-Speicher</string>
+    <string name="run">ausführen</string>
+    <string name="run_as_root">als root ausführen</string>
+    <string name="view">betrachten</string>
+    <string name="file">Datei</string>
+    <string name="files">Dateien</string>
+    <string name="directory">Verzeichnis</string>
+    <string name="directories">Verzeichnisse</string>
+    <string name="script_is_stopped">Skripte wurde beendet</string>
+    <string name="script_is_still_running">Skript läuft noch</string>
+</resources>
